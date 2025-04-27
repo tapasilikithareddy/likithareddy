@@ -8,7 +8,7 @@
   <img height="40px" src="https://img.shields.io/badge/-TAPASI-333d7a?&style=for-the-badge&logoWidth=50" />
   <br><br>
 
-  <img src="<img src="https://readme-typing-svg.herokuapp.com/?color=333d7a&size=32&center=true&vCenter=true&width=800&height=70&pause=1000&background=faebee&lines=Hi+there+I'm+Likitha+Reddy+Tapasi+👋" alt="Headline" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=333d7a&size=32&center=true&vCenter=true&width=800&height=70&pause=1000&background=faebee&lines=Hi+there+I'm+Likitha+Reddy+Tapasi+👋" alt="Headline" />
   <br><br>
 
   <a href="https://www.linkedin.com/in/tapasi-likitha-reddy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
