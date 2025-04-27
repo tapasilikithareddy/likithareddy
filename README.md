@@ -1,4 +1,6 @@
-<h1 align="center" style="color:#faebee"> <img height="40px" src="https://img.shields.io/badge/-Hello world!👋-faebee?&style=for-the-badge&logoWidth=50" /> </h1> 
+<h1 align="center" style="color:#faebee"> 
+  <img height="40px" src="https://img.shields.io/badge/-Hello world!👋-faebee?&style=for-the-badge&logoWidth=50" /> 
+</h1> 
 <div align="center"> 
   <img height="40px" src="https://img.shields.io/badge/-I'm-faebee?&style=for-the-badge&logoWidth=50" /> 
   <img height="40px" src="https://img.shields.io/badge/-LIKITHA-333d7a?&style=for-the-badge&logoWidth=50" /> 
@@ -45,7 +47,6 @@ me.say_hi()
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" /> 
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
     <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
   </p> 
   <h3 align="center"> 
     <img height="25px" src="https://img.shields.io/badge/-Backend Frameworks-faebee?&style=for-the-badge&logoWidth=50" /> 
@@ -67,7 +68,6 @@ me.say_hi()
   </h3> 
   <p align="center"> 
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> 
   </p> 
   <h3 align="center"> 
     <img height="25px" src="https://img.shields.io/badge/-Cloud & DevOps-faebee?&style=for-the-badge&logoWidth=50" /> 
